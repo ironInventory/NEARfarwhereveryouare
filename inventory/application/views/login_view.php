@@ -89,7 +89,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           echo $info;
         }
       ?>
-
       </div>                                                   
 <br>
       <div class="row" style="display: flex; align-items: center; justify-content: center;">
